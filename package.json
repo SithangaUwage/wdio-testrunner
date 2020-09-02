@@ -1,0 +1,23 @@
+{
+  "name": "wdio-testrunner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SithangaUwage/wdio-testrunner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SithangaUwage/wdio-testrunner/issues"
+  },
+  "homepage": "https://github.com/SithangaUwage/wdio-testrunner#readme",
+  "dependencies": {
+    "@wdio/cli": "^6.4.5"
+  }
+}
