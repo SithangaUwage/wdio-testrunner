@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/SithangaUwage/wdio-testrunner#readme",
   "dependencies": {
-    "@wdio/cli": "^6.4.5"
+    "@wdio/cli": "^6.4.5",
+    "@wdio/selenium-standalone-service": "^6.4.0"
   },
   "devDependencies": {
     "@wdio/local-runner": "^6.4.5",
